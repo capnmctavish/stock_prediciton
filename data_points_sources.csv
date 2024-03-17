@@ -1,0 +1,38 @@
+Data Point,Source,Link
+Historical Price Data,
+Daily Closing Prices,Bloomberg Terminal,https://www.bloomberg.com/professional/
+High/Low Prices,Refinitiv Eikon,https://www.refinitiv.com/products/eikon-trading-software/
+Trading Volume,FactSet,https://www.factset.com/
+Fundamental Data,
+Earnings Per Share (EPS),Morningstar,https://www.morningstar.com/
+Revenue,S&P Capital IQ,https://www.spglobal.com/marketintelligence/en/
+Profit Margins,Quandl,https://www.quandl.com/
+Debt Levels,SEC EDGAR,https://www.sec.gov/edgar/searchedgar/companysearch.html
+Cash Flow,Financial Times,https://www.ft.com/
+Market Sentiment,
+News Articles,Google Finance,https://www.google.com/finance
+Social Media Activity,Twitter,https://twitter.com/
+Analyst Reports,Investing.com,https://www.investing.com/
+Technical Indicators,
+Moving Averages,Alpha Vantage,https://www.alphavantage.co/
+Relative Strength Index (RSI),Yahoo Finance,https://finance.yahoo.com/
+Stochastic Oscillators,Investopedia,https://www.investopedia.com/
+Bollinger Bands,Investor's Business Daily,https://www.investors.com/
+Macroeconomic Indicators,
+Interest Rates,Federal Reserve,https://www.federalreserve.gov/
+Inflation Rates,World Bank,https://data.worldbank.org/
+GDP Growth,OECD,https://www.oecd.org/
+Unemployment Rates,Bureau of Labor Statistics,https://www.bls.gov/
+Industry-specific Data,
+Supply and Demand Dynamics,MarketWatch,https://www.marketwatch.com/
+Regulatory Changes,SEC Filings,https://www.sec.gov/edgar/searchedgar/companysearch.html
+Technological Advancements,Gartner,https://www.gartner.com/
+Company-specific Data,
+Management Team,Company Website,https://www.example.com/
+Business Strategy,Annual Reports,https://www.example.com/investor-relations/
+Product Pipeline,Investor Presentations,https://www.example.com/investor-relations/
+Customer Base,Company Filings,https://www.sec.gov/edgar/searchedgar/companysearch.html
+Market Volatility,
+VIX (Volatility Index),Chicago Board Options Exchange,https://www.cboe.com/vix/
+Lagged Variables,
+Past Price Data,Quandl,https://www.quandl.com/
